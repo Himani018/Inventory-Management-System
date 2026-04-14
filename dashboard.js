@@ -9,7 +9,7 @@ function toggleMenu() {
 }
 function logout() {
     alert("Logged out successfully!");
-    window.location.href='home.html';
+    window.location.href='inven.html';
 }
 
 function noinventory(){
